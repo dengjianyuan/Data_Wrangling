@@ -1,0 +1,220 @@
+﻿icd_version,dx_group,dx_code,level,description
+9,opioid poisoning,965.0,1,Poisoning by opiates and related narcotics
+9,opioid poisoning,965.00,2,"Poisoning by opium (alkaloids), unspecified"
+9,opioid poisoning,965.01,2,Poisoning by heroin
+9,opioid poisoning,965.02,2,Poisoning by methadone
+9,opioid poisoning,965.09,2,Poisoning by other opiates or related narcotics
+9,opioid poisoning,970.1,1,Poisoning by opiate antagonists
+9,opioid poisoning,E850.0,1,Accidental poisoning by heroin
+9,opioid poisoning,E850.1,1,Accidental poisoning by methadone
+9,opioid poisoning,E850.2,1,Accidental poisoning by other opiates or related narcotics
+9,opioid adverse effect,E935.0,1,Heroin causing adverse effects in therapeutic use
+9,opioid adverse effect,E935.1,1,Methadone causing adverse effects in therapeutic use
+9,opioid adverse effect,E935.2,1,Other opiates and related narcotics causing adverse effects in therapeutic use
+9,opioid adverse effect,E940.1,1,Opiate antagonists causing adverse effects in therapeutic use
+9,opioid dependence,304.0,1,Opioid type dependence
+9,opioid dependence,304.00,2,"Opioid type dependence, unspecified"
+9,opioid dependence,304.01,2,"Opioid type dependence, continuous"
+9,opioid dependence,304.02,2,"Opioid type dependence, episodic"
+9,opioid dependence,304.03,2,"Opioid type dependence, in remission"
+9,opioid dependence,304.7,1,Combinations of opioid type drug with any other drug dependence
+9,opioid dependence,304.70,2,"Combinations of opioid type drug with any other drug dependence, unspecified"
+9,opioid dependence,304.71,2,"Combinations of opioid type drug with any other drug dependence, continuous"
+9,opioid dependence,304.72,2,"Combinations of opioid type drug with any other drug dependence, episodic"
+9,opioid dependence,304.73,2,"Combinations of opioid type drug with any other drug dependence, in remission"
+9,opioid abuse,305.5,1,Nondependent opioid abuse
+9,opioid abuse,305.50,2,"Opioid abuse, unspecified"
+9,opioid abuse,305.51,2,"Opioid abuse, continuous"
+9,opioid abuse,305.52,2,"Opioid abuse, episodic"
+9,opioid abuse,305.53,2,"Opioid abuse, in remission"
+10,opioid poisoning,T40.0X1,3,"Poisoning by opium, accidental (unintentional)"
+10,opioid poisoning,T40.0X1A,4,"Poisoning by opium, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.0X1D,4,"Poisoning by opium, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.0X1S,4,"Poisoning by opium, accidental (unintentional), sequela"
+10,opioid poisoning,T40.0X2,3,"Poisoning by opium, intentional self-harm"
+10,opioid poisoning,T40.0X2A,4,"Poisoning by opium, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.0X2D,4,"Poisoning by opium, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.0X2S,4,"Poisoning by opium, intentional self-harm, sequela"
+10,opioid poisoning,T40.0X3,3,"Poisoning by opium, assault"
+10,opioid poisoning,T40.0X3A,4,"Poisoning by opium, assault, initial encounter"
+10,opioid poisoning,T40.0X3D,4,"Poisoning by opium, assault, subsequent encounter"
+10,opioid poisoning,T40.0X3S,4,"Poisoning by opium, assault, sequela"
+10,opioid poisoning,T40.0X4,3,"Poisoning by opium, undetermined"
+10,opioid poisoning,T40.0X4A,4,"Poisoning by opium, undetermined, initial encounter"
+10,opioid poisoning,T40.0X4D,4,"Poisoning by opium, undetermined, subsequent encounter"
+10,opioid poisoning,T40.0X4S,4,"Poisoning by opium, undetermined, sequela"
+10,opioid adverse effect,T40.0X5,3,Adverse effect of opium
+10,opioid adverse effect,T40.0X5A,4,"Adverse effect of opium, initial encounter"
+10,opioid adverse effect,T40.0X5D,4,"Adverse effect of opium, subsequent encounter"
+10,opioid adverse effect,T40.0X5S,4,"Adverse effect of opium, sequela"
+10,opioid poisoning,T40.1X1,3,"Poisoning by heroin, accidental (unintentional)"
+10,opioid poisoning,T40.1X1A,4,"Poisoning by heroin, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.1X1D,4,"Poisoning by heroin, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.1X1S,4,"Poisoning by heroin, accidental (unintentional), sequela"
+10,opioid poisoning,T40.1X2,3,"Poisoning by heroin, intentional self-harm"
+10,opioid poisoning,T40.1X2A,4,"Poisoning by heroin, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.1X2D,4,"Poisoning by heroin, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.1X2S,4,"Poisoning by heroin, intentional self-harm, sequela"
+10,opioid poisoning,T40.1X3,3,"Poisoning by heroin, assault"
+10,opioid poisoning,T40.1X3A,4,"Poisoning by heroin, assault, initial encounter"
+10,opioid poisoning,T40.1X3D,4,"Poisoning by heroin, assault, subsequent encounter"
+10,opioid poisoning,T40.1X3S,4,"Poisoning by heroin, assault, sequela"
+10,opioid poisoning,T40.1X4,3,"Poisoning by heroin, undetermined"
+10,opioid poisoning,T40.1X4A,4,"Poisoning by heroin, undetermined, initial encounter"
+10,opioid poisoning,T40.1X4D,4,"Poisoning by heroin, undetermined, subsequent encounter"
+10,opioid poisoning,T40.1X4S,4,"Poisoning by heroin, undetermined, sequela"
+10,opioid poisoning,T40.2X1,3,"Poisoning by other opioids, accidental (unintentional)"
+10,opioid poisoning,T40.2X1A,4,"Poisoning by other opioids, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.2X1D,4,"Poisoning by other opioids, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.2X1S,4,"Poisoning by other opioids, accidental (unintentional), sequela"
+10,opioid poisoning,T40.2X2,3,"Poisoning by other opioids, intentional self-harm"
+10,opioid poisoning,T40.2X2A,4,"Poisoning by other opioids, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.2X2D,4,"Poisoning by other opioids, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.2X2S,4,"Poisoning by other opioids, intentional self-harm, sequela"
+10,opioid poisoning,T40.2X3,3,"Poisoning by other opioids, assault"
+10,opioid poisoning,T40.2X3A,4,"Poisoning by other opioids, assault, initial encounter"
+10,opioid poisoning,T40.2X3D,4,"Poisoning by other opioids, assault, subsequent encounter"
+10,opioid poisoning,T40.2X3S,4,"Poisoning by other opioids, assault, sequela"
+10,opioid poisoning,T40.2X4,3,"Poisoning by other opioids, undetermined"
+10,opioid poisoning,T40.2X4A,4,"Poisoning by other opioids, undetermined, initial encounter"
+10,opioid poisoning,T40.2X4D,4,"Poisoning by other opioids, undetermined, subsequent encounter"
+10,opioid poisoning,T40.2X4S,4,"Poisoning by other opioids, undetermined, sequela"
+10,opioid adverse effect,T40.2X5,3,Adverse effect of other opioids
+10,opioid adverse effect,T40.2X5A,4,"Adverse effect of other opioids, initial encounter"
+10,opioid adverse effect,T40.2X5D,4,"Adverse effect of other opioids, subsequent encounter"
+10,opioid adverse effect,T40.2X5S,4,"Adverse effect of other opioids, sequela"
+10,opioid poisoning,T40.3X1,3,"Poisoning by methadone, accidental (unintentional)"
+10,opioid poisoning,T40.3X1A,4,"Poisoning by methadone, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.3X1D,4,"Poisoning by methadone, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.3X1S,4,"Poisoning by methadone, accidental (unintentional), sequela"
+10,opioid poisoning,T40.3X2,3,"Poisoning by methadone, intentional self-harm"
+10,opioid poisoning,T40.3X2A,4,"Poisoning by methadone, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.3X2D,4,"Poisoning by methadone, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.3X2S,4,"Poisoning by methadone, intentional self-harm, sequela"
+10,opioid poisoning,T40.3X3,3,"Poisoning by methadone, assault"
+10,opioid poisoning,T40.3X3A,4,"Poisoning by methadone, assault, initial encounter"
+10,opioid poisoning,T40.3X3D,4,"Poisoning by methadone, assault, subsequent encounter"
+10,opioid poisoning,T40.3X3S,4,"Poisoning by methadone, assault, sequela"
+10,opioid poisoning,T40.3X4,3,"Poisoning by methadone, undetermined"
+10,opioid poisoning,T40.3X4A,4,"Poisoning by methadone, undetermined, initial encounter"
+10,opioid poisoning,T40.3X4D,4,"Poisoning by methadone, undetermined, subsequent encounter"
+10,opioid poisoning,T40.3X4S,4,"Poisoning by methadone, undetermined, sequela"
+10,opioid adverse effect,T40.3X5,3,Adverse effect of methadone
+10,opioid adverse effect,T40.3X5A,4,"Adverse effect of methadone, initial encounter"
+10,opioid adverse effect,T40.3X5D,4,"Adverse effect of methadone, subsequent encounter"
+10,opioid adverse effect,T40.3X5S,4,"Adverse effect of methadone, sequela"
+10,opioid poisoning,T40.4X1,3,"Poisoning by other synthetic narcotics, accidental (unintentional)"
+10,opioid poisoning,T40.4X1A,4,"Poisoning by other synthetic narcotics, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.4X1D,4,"Poisoning by other synthetic narcotics, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.4X1S,4,"Poisoning by other synthetic narcotics, accidental (unintentional), sequela"
+10,opioid poisoning,T40.4X2,3,"Poisoning by other synthetic narcotics, intentional self-harm"
+10,opioid poisoning,T40.4X2A,4,"Poisoning by other synthetic narcotics, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.4X2D,4,"Poisoning by other synthetic narcotics, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.4X2S,4,"Poisoning by other synthetic narcotics, intentional self-harm, sequela"
+10,opioid poisoning,T40.4X3,3,"Poisoning by other synthetic narcotics, assault"
+10,opioid poisoning,T40.4X3A,4,"Poisoning by other synthetic narcotics, assault, initial encounter"
+10,opioid poisoning,T40.4X3D,4,"Poisoning by other synthetic narcotics, assault, subsequent encounter"
+10,opioid poisoning,T40.4X3S,4,"Poisoning by other synthetic narcotics, assault, sequela"
+10,opioid poisoning,T40.4X4,3,"Poisoning by other synthetic narcotics, undetermined"
+10,opioid poisoning,T40.4X4A,4,"Poisoning by other synthetic narcotics, undetermined, initial encounter"
+10,opioid poisoning,T40.4X4D,4,"Poisoning by other synthetic narcotics, undetermined, subsequent encounter"
+10,opioid poisoning,T40.4X4S,4,"Poisoning by other synthetic narcotics, undetermined, sequela"
+10,opioid adverse effect,T40.4X5,3,Adverse effect of other synthetic narcotics
+10,opioid adverse effect,T40.4X5A,4,"Adverse effect of other synthetic narcotics, initial encounter"
+10,opioid adverse effect,T40.4X5D,4,"Adverse effect of other synthetic narcotics, subsequent encounter"
+10,opioid adverse effect,T40.4X5S,4,"Adverse effect of other synthetic narcotics, sequela"
+10,opioid poisoning,T40.601,3,"Poisoning by unspecified narcotics, accidental (unintentional)"
+10,opioid poisoning,T40.601A,4,"Poisoning by unspecified narcotics, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.601D,4,"Poisoning by unspecified narcotics, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.601S,4,"Poisoning by unspecified narcotics, accidental (unintentional), sequela"
+10,opioid poisoning,T40.602,3,"Poisoning by unspecified narcotics, intentional self-harm"
+10,opioid poisoning,T40.602A,4,"Poisoning by unspecified narcotics, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.602D,4,"Poisoning by unspecified narcotics, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.602S,4,"Poisoning by unspecified narcotics, intentional self-harm, sequela"
+10,opioid poisoning,T40.603,3,"Poisoning by unspecified narcotics, assault"
+10,opioid poisoning,T40.603A,4,"Poisoning by unspecified narcotics, assault, initial encounter"
+10,opioid poisoning,T40.603D,4,"Poisoning by unspecified narcotics, assault, subsequent encounter"
+10,opioid poisoning,T40.603S,4,"Poisoning by unspecified narcotics, assault, sequela"
+10,opioid poisoning,T40.604,3,"Poisoning by unspecified narcotics, undetermined"
+10,opioid poisoning,T40.604A,4,"Poisoning by unspecified narcotics, undetermined, initial encounter"
+10,opioid poisoning,T40.604D,4,"Poisoning by unspecified narcotics, undetermined, subsequent encounter"
+10,opioid poisoning,T40.604S,4,"Poisoning by unspecified narcotics, undetermined, sequela"
+10,opioid adverse effect,T40.605,3,Adverse effect of unspecified narcotics
+10,opioid adverse effect,T40.605A,4,"Adverse effect of unspecified narcotics, initial encounter"
+10,opioid adverse effect,T40.605D,4,"Adverse effect of unspecified narcotics, subsequent encounter"
+10,opioid adverse effect,T40.605S,4,"Adverse effect of unspecified narcotics, sequela"
+10,opioid poisoning,T40.691,3,"Poisoning by other narcotics, accidental (unintentional)"
+10,opioid poisoning,T40.691A,4,"Poisoning by other narcotics, accidental (unintentional), initial encounter"
+10,opioid poisoning,T40.691D,4,"Poisoning by other narcotics, accidental (unintentional), subsequent encounter"
+10,opioid poisoning,T40.691S,4,"Poisoning by other narcotics, accidental (unintentional), sequela"
+10,opioid poisoning,T40.692,3,"Poisoning by other narcotics, intentional self-harm"
+10,opioid poisoning,T40.692A,4,"Poisoning by other narcotics, intentional self-harm, initial encounter"
+10,opioid poisoning,T40.692D,4,"Poisoning by other narcotics, intentional self-harm, subsequent encounter"
+10,opioid poisoning,T40.692S,4,"Poisoning by other narcotics, intentional self-harm, sequela"
+10,opioid poisoning,T40.693,3,"Poisoning by other narcotics, assault"
+10,opioid poisoning,T40.693A,4,"Poisoning by other narcotics, assault, initial encounter"
+10,opioid poisoning,T40.693D,4,"Poisoning by other narcotics, assault, subsequent encounter"
+10,opioid poisoning,T40.693S,4,"Poisoning by other narcotics, assault, sequela"
+10,opioid poisoning,T40.694,3,"Poisoning by other narcotics, undetermined"
+10,opioid poisoning,T40.694A,4,"Poisoning by other narcotics, undetermined, initial encounter"
+10,opioid poisoning,T40.694D,4,"Poisoning by other narcotics, undetermined, subsequent encounter"
+10,opioid poisoning,T40.694S,4,"Poisoning by other narcotics, undetermined, sequela"
+10,opioid adverse effect,T40.695,3,Adverse effect of other narcotics
+10,opioid adverse effect,T40.695A,4,"Adverse effect of other narcotics, initial encounter"
+10,opioid adverse effect,T40.695D,4,"Adverse effect of other narcotics, subsequent encounter"
+10,opioid adverse effect,T40.695S,4,"Adverse effect of other narcotics, sequela"
+10,opioid dependence,F11.2,1,Opioid dependence
+10,opioid dependence,F11.20,2,"Opioid dependence, uncomplicated"
+10,opioid dependence,F11.21,2,"Opioid dependence, in remission"
+10,opioid dependence,F11.22,2,Opioid dependence with intoxication
+10,opioid dependence,F11.220,3,"Opioid dependence with intoxication, uncomplicated"
+10,opioid dependence,F11.221,3,"Opioid dependence with intoxication, delirium"
+10,opioid dependence,F11.222,3,"Opioid dependence with intoxication, with perceptual disturbance"
+10,opioid dependence,F11.229,3,"Opioid dependence with intoxication, unspecified"
+10,opioid dependence,F11.23,2,Opioid dependence with withdrawal
+10,opioid dependence,F11.24,2,Opioid dependence with opioid-induced mood disorder
+10,opioid dependence,F11.25,2,Opioid dependence with opioid-induced psychotic disorder
+10,opioid dependence,F11.250,3,Opioid dependence with opioid-induced psychotic disorder with delusions 
+10,opioid dependence,F11.251,3,Opioid dependence with opioid-induced psychotic disorder with hallucinations
+10,opioid dependence,F11.259,3,Opioid dependence with opioid-induced psychotic disorder unspecified
+10,opioid dependence,F11.28,2,Opioid dependence with other opioid-induced disorder
+10,opioid dependence,F11.281,3,Opioid dependence with opioid-induced sexual dysfunction
+10,opioid dependence,F11.282,3,Opioid dependence with opioid-induced sleep disorder
+10,opioid dependence,F11.288,3,Opioid dependence with other opioid-induced disorder
+10,opioid dependence,F11.29,2,Opioid dependence with unspecified opioid-induced disorder
+10,opioid abuse,F11.1,1,Opioid abuse
+10,opioid abuse,F11.10,2,"Opioid abuse, uncomplicated"
+10,opioid abuse,F11.11,2,"Opioid abuse, in remission"
+10,opioid abuse,F11.12,2,Opioid abuse with intoxication
+10,opioid abuse,F11.120,3,"Opioid abuse with intoxication, uncomplicated"
+10,opioid abuse,F11.121,3,"Opioid abuse with intoxication, delirium"
+10,opioid abuse,F11.122,3,"Opioid abuse with intoxication, with perceptual disturbance"
+10,opioid abuse,F11.129,3,"Opioid abuse with intoxication, unspecified"
+10,opioid abuse,F11.14,2,Opioid abuse with opioid-induced mood disorder
+10,opioid abuse,F11.15,2,Opioid abuse with opioid-induced psychotic disorder
+10,opioid abuse,F11.150,3,"Opioid abuse with opioid-induced psychotic disorder, with delusions"
+10,opioid abuse,F11.151,3,"Opioid abuse with opioid-induced psychotic disorder, with hallucinations"
+10,opioid abuse,F11.159,3,"Opioid abuse with opioid-induced psychotic disorder, unspecified"
+10,opioid abuse,F11.18,2,Opioid abuse with other opioid-induced disorder
+10,opioid abuse,F11.181,3,Opioid abuse with opioid-induced sexual dysfunction
+10,opioid abuse,F11.182,3,Opioid abuse with opioid-induced sleep disorder
+10,opioid abuse,F11.188,3,Opioid abuse with other opioid-induced disorder
+10,opioid abuse,F11.19,2,Opioid abuse with unspecified opioid-induced disorder
+10,"opioid use, unspecified",F11.9,1,"Opioid use, unspecified"
+10,"opioid use, unspecified",F11.90,2,"Opioid use, unspecified, uncomplicated"
+10,"opioid use, unspecified",F11.92,2,"Opioid use, unspecified with intoxication"
+10,"opioid use, unspecified",F11.920,3,"Opioid use, unspecified with intoxication, uncomplicated"
+10,"opioid use, unspecified",F11.921,3,"Opioid use, unspecified with intoxication, delirium"
+10,"opioid use, unspecified",F11.922,3,"Opioid use, unspecified with intoxication, with perceptual disturbance"
+10,"opioid use, unspecified",F11.929,3,"Opioid use, unspecified with intoxication, unspecified"
+10,"opioid use, unspecified",F11.93,2,"Opioid use, unspecified, with withdrawal"
+10,"opioid use, unspecified",F11.94,2,"Opioid use, unspecified, with opioid-induced mood disorder"
+10,"opioid use, unspecified",F11.95,2,"Opioid use, unspecified with opioid-induced psychotic disorder"
+10,"opioid use, unspecified",F11.950,3,"Opioid use, unspecified with opioid-induced psychotic disorder, with delusions"
+10,"opioid use, unspecified",F11.951,3,"Opioid use, unspecified with opioid-induced psychotic disorder, with hallucinations"
+10,"opioid use, unspecified",F11.959,3,"Opioid use, unspecified with opioid-induced psychotic disorder, unspecified"
+10,"opioid use, unspecified",F11.98,2,"Opioid use, unspecified with other specified opioid-induced disorder"
+10,"opioid use, unspecified",F11.981,3,"Opioid use, unspecified with opioid-induced sexual dysfunction"
+10,"opioid use, unspecified",F11.982,3,"Opioid use, unspecified with opioid-induced sleep disorder"
+10,"opioid use, unspecified",F11.988,3,"Opioid use, unspecified with other opioid-induced disorder"
+10,"opioid use, unspecified",F11.99,2,"Opioid use, unspecified, with unspecified opioid-induced disorder"
